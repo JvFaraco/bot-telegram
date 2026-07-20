@@ -1,0 +1,36 @@
+name: Check notebook prices
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # a cada 6 horas
+  workflow_dispatch: {}       # permite rodar manualmente pela aba Actions
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar verificação de preços
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py
+
+      - name: Salvar estado atualizado
+        run: |
+          git config user.name "promo-bot"
+          git config user.email "promo-bot@users.noreply.github.com"
+          git add state.json
+          git diff --staged --quiet || git commit -m "chore: atualiza precos monitorados"
+          git push

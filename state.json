@@ -1,1 +1,30 @@
-{}
+{
+  "products": {
+    "https://www.amazon.com.br/dp/B0DJWQKLS7": {
+      "last_seen_price": 3699.0
+    },
+    "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
+      "last_seen_price": 3599.1
+    }
+  },
+  "deals_alerted": [
+    "https://www.promobit.com.br/oferta/notebook-gamer-acer-nitro-v15-4050-32gb-ram-2922040/",
+    "https://www.promobit.com.br/oferta/notebook-gamer-lenovo-loq-15irx9-156-full-hd-144hz-intel-core-i5-13450hx-16gb-512gb-ssd-nvidia-rtx-4050-linux-83khs0-2918659/",
+    "https://www.promobit.com.br/oferta/notebook-asus-tuf-rv261-gaming-f16-intel-core-i5-14a-geracao-nvidia-rtx-5060-8gb-512gb-ssd-keepos-16-led-fhd-nivel-ips-jaeger-gray-2928798/",
+    "https://www.promobit.com.br/oferta/notebook-asus-tuf-rv261-i5-14-gen-rtx-5060-8gb-512gb-2928772/",
+    "https://www.promobit.com.br/oferta/relogio-smartwatch-bettdow-fb051-ai-esportivo-gps-128-2933765/",
+    "https://www.promobit.com.br/oferta/relogio-smartwatch-bettdow-fb041-gps-alexa-5mip68-a-prova-dagua-2933569/",
+    "https://www.promobit.com.br/oferta/smartwatch-samsung-galaxy-fit3-display-16-grafite-2933279/",
+    "https://www.promobit.com.br/oferta/smartwatch-geonav-wb-tela-185-45mm-24-modos-esportivos-fitness-tracker-preto-2932910/",
+    "https://www.promobit.com.br/oferta/smartwatch-mibro-lite-amoled-ip68-bluetooth-2932547/",
+    "https://www.promobit.com.br/oferta/smartwatch-huawei-band-11-tela-amoled-de-162-bateria-com-autonomia-de-ate-14-dias-monitoramento-aprimorado-do-son-2931739/",
+    "https://www.promobit.com.br/oferta/smartwatch-huawei-band-11-tela-amoled-de-162-bateria-com-autonomia-de-ate-14-dias-monitoramento-aprimorado-do-sono-bem-estar-emocional-compat-2931646/",
+    "https://www.promobit.com.br/oferta/t55-pro-max-smart-watch-4-earbuds-2931076/",
+    "https://www.promobit.com.br/oferta/smartwatch-samsung-galaxy-watch8-40mm-grafite-32gb-bluetooth-2930875/",
+    "https://www.promobit.com.br/oferta/fonte-msi-mag-650w-80-plus-bronze-pfc-ativo-a650bnl-preto-2933115/",
+    "https://www.promobit.com.br/oferta/webcam-s600l-4k-30fps-360-com-rgb-e-microfone-2932626/",
+    "https://www.promobit.com.br/oferta/lemorele-dock-station-usb-c-10-em-1-2931037/",
+    "https://www.promobit.com.br/oferta/apoio-ergonomico-para-notebook-2931096/",
+    "https://www.promobit.com.br/oferta/liquidacao-pos-copa-smart-tv-4k-soundbar-tv-box-e-muito-mais-com-ate-50-off-2932416/"
+  ]
+}

@@ -82,7 +82,11 @@ def fetch_deals(category_url: str, timeout: int = 20) -> List[Dict]:
 
 
 def is_good_deal(deal: Dict, watch: Dict) -> bool:
-    """Aplica os filtros de palavra-chave e de 'é muito boa mesmo' de um watch."""
+    """Aplica os filtros de um watch. O desconto é o critério decisivo:
+    quando 'min_discount_pct' está definido, a oferta SÓ passa se tiver um
+    desconto visível e igual/maior que esse valor — nada de passar só por
+    preço abaixo do teto ou pela tag 'Menor preço'. Assim só chega o que é
+    realmente um descontão."""
     title_lower = deal["title"].lower()
 
     keywords_all = [k.lower() for k in watch.get("keywords_all", [])]
@@ -93,17 +97,22 @@ def is_good_deal(deal: Dict, watch: Dict) -> bool:
     if keywords_any and not any(k in title_lower for k in keywords_any):
         return False
 
+    # Teto de preço é um limite rígido (opcional): acima disso, descarta.
     max_price = watch.get("max_price")
     if max_price is not None and deal["price"] > max_price:
         return False
 
+    # Desconto é o critério que manda. Se o watch define min_discount_pct, a
+    # oferta precisa ter desconto visível e >= esse valor. Sem atalho: preço
+    # baixo ou "Menor preço" sozinhos não bastam.
     min_discount = watch.get("min_discount_pct")
-    good_discount = (
-        min_discount is not None
-        and deal["discount_pct"] is not None
-        and deal["discount_pct"] >= min_discount
-    )
-    good_price = max_price is not None and deal["price"] <= max_price
-    curated = deal["is_menor_preco"]
+    if min_discount is not None:
+        return (
+            deal["discount_pct"] is not None
+            and deal["discount_pct"] >= min_discount
+        )
 
-    return good_discount or good_price or curated
+    # Watch sem min_discount_pct definido: modo permissivo (preço abaixo do
+    # teto ou marcado como "Menor preço" pela curadoria do Promobit).
+    good_price = max_price is not None and deal["price"] <= max_price
+    return good_price or deal["is_menor_preco"]

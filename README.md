@@ -64,8 +64,8 @@ avisa quando o preço atual for igual ou menor que esse valor).
 ```
 
 **Categorias inteiras** (`deal_watches`): já vem configurado com
-Notebook (filtrado pra Ryzen 5/7 + 16GB), Notebook Gamer, Smartwatch,
-AirPods, Hardware/periféricos e TVs. Cada watch aceita:
+Notebook (filtrado pra Ryzen 5/7 + 16GB), Notebook Gamer, Apple Watch,
+AirPods, Hardware/periféricos, TVs, Cuecas e Meias. Cada watch aceita:
 
 - `url` — link da categoria no Promobit (formato
   `https://www.promobit.com.br/promocoes/{categoria}/s/` — dá pra achar
@@ -73,14 +73,20 @@ AirPods, Hardware/periféricos e TVs. Cada watch aceita:
 - `keywords_all` *(opcional)* — todas essas palavras precisam aparecer
   no título da oferta
 - `keywords_any` *(opcional)* — pelo menos uma dessas precisa aparecer
-- `max_price` *(opcional)* — teto de preço em reais
+- `max_price` *(opcional)* — teto de preço em reais (limite rígido:
+  acima disso a oferta é descartada)
 - `min_discount_pct` *(opcional)* — desconto mínimo (%) pra considerar
-  "muito boa"
+  a oferta "muito boa"
 
-Uma oferta passa no filtro se tiver desconto ≥ `min_discount_pct`, OU
-preço ≤ `max_price`, OU já estiver marcada como "Menor preço" pelo
-Promobit — e, se você definiu `keywords_all`/`keywords_any`, o título
-também precisa bater com elas.
+**O desconto é o critério decisivo.** Quando você define
+`min_discount_pct`, a oferta só passa se tiver um desconto **visível e
+≥ esse valor** — não adianta só ter preço baixo ou estar marcada como
+"Menor preço". Somado a isso, se você definiu `keywords_all`/
+`keywords_any` o título precisa bater com elas, e se definiu `max_price`
+a oferta não pode passar do teto. Ou seja: só chega no Telegram o que é
+realmente um descontão. (Se um watch **não** tiver `min_discount_pct`,
+ele volta ao modo permissivo antigo: passa por preço abaixo do teto ou
+pela tag "Menor preço".)
 
 Exemplo pra adicionar uma nova categoria (ex: caixa de som):
 

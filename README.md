@@ -55,12 +55,17 @@ Tudo fica em `config.json`.
 **Produtos específicos** (`product_watches`): `name` (identifica no
 alerta), `url` (link do produto) e `price_threshold` (preço em reais —
 avisa quando o preço atual for igual ou menor que esse valor).
+`min_price` *(opcional)* é um piso de sanidade: se o preço lido ficar
+abaixo dele, o bot ignora em vez de mandar alerta falso. Serve pra evitar
+o caso em que o scraper pega uma parcela ou um acessório no lugar do
+produto (ex: um notebook aparecer como "R$ 148,00").
 
 ```json
 {
   "name": "Acer Swift Go 14 (Ryzen 7, 16GB, 512GB) - KaBuM",
   "url": "https://www.kabum.com.br/produto/XXXXX/...",
-  "price_threshold": 4000
+  "price_threshold": 4000,
+  "min_price": 1500
 }
 ```
 

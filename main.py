@@ -52,6 +52,15 @@ def check_product(item: dict, state: dict) -> None:
         print(f"[warn] não encontrei preço na página de '{name}' (layout pode ter mudado)")
         return
 
+    # Guarda de sanidade: se o preço lido está absurdamente baixo (ex: pegou
+    # uma parcela ou um acessório em vez do produto), ignora em vez de mandar
+    # um alerta falso. 'min_price' é opcional por item no config.json.
+    min_price = item.get("min_price")
+    if min_price is not None and price < min_price:
+        print(f"[warn] preço R$ {price:.2f} de '{name}' abaixo do mínimo plausível "
+              f"(R$ {min_price:.2f}) — provável leitura errada, ignorando")
+        return
+
     print(f"[produto] {name}: R$ {price:.2f} (limite R$ {threshold:.2f})")
 
     products_state = state.setdefault("products", {})

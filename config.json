@@ -3,12 +3,14 @@
     {
       "name": "ASUS Vivobook Go 15 (Ryzen 5 7520U, 16GB, 512GB) - Amazon",
       "url": "https://www.amazon.com.br/dp/B0DJWQKLS7",
-      "price_threshold": 3200
+      "price_threshold": 3200,
+      "min_price": 1500
     },
     {
       "name": "ASUS Vivobook Go 15 (Ryzen 5 7520U, 16GB, 512GB) - KaBuM",
       "url": "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288",
-      "price_threshold": 3200
+      "price_threshold": 3200,
+      "min_price": 1500
     }
   ],
   "deal_watches": [

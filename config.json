@@ -1,0 +1,62 @@
+{
+  "product_watches": [
+    {
+      "name": "ASUS Vivobook Go 15 (Ryzen 5 7520U, 16GB, 512GB) - Amazon",
+      "url": "https://www.amazon.com.br/dp/B0DJWQKLS7",
+      "price_threshold": 3200
+    },
+    {
+      "name": "ASUS Vivobook Go 15 (Ryzen 5 7520U, 16GB, 512GB) - KaBuM",
+      "url": "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288",
+      "price_threshold": 3200
+    }
+  ],
+  "deal_watches": [
+    {
+      "name": "Notebook Ryzen 5/7 + 16GB",
+      "url": "https://www.promobit.com.br/promocoes/notebooks/s/",
+      "keywords_all": ["16gb"],
+      "keywords_any": ["ryzen 5", "ryzen 7", "i5", "i7"],
+      "max_price": 4500,
+      "min_discount_pct": 25
+    },
+    {
+      "name": "Notebook Gamer",
+      "url": "https://www.promobit.com.br/promocoes/notebook-gamer/s/",
+      "min_discount_pct": 35
+    },
+    {
+      "name": "Smartwatch",
+      "url": "https://www.promobit.com.br/promocoes/smartwatch-smartband/s/",
+      "min_discount_pct": 35
+    },
+    {
+      "name": "AirPods",
+      "url": "https://www.promobit.com.br/promocoes/fone-de-ouvido/s/",
+      "keywords_all": ["airpods"],
+      "min_discount_pct": 25
+    },
+    {
+      "name": "Hardware e periféricos",
+      "url": "https://www.promobit.com.br/promocoes/hardware-perifericos/s/",
+      "min_discount_pct": 35
+    },
+    {
+      "name": "TVs",
+      "url": "https://www.promobit.com.br/promocoes/tv/s/",
+      "min_discount_pct": 40
+    },
+    {
+      "name": "Cuecas",
+      "url": "https://www.promobit.com.br/promocoes/roupa-masculina/s/",
+      "keywords_all": ["cueca"],
+      "min_discount_pct": 35
+    },
+    {
+      "name": "Meias",
+      "url": "https://www.promobit.com.br/promocoes/roupa-masculina/s/",
+      "keywords_all": ["meia"],
+      "min_discount_pct": 35
+    }
+  ]
+}

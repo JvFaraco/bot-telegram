@@ -19,10 +19,11 @@ no Telegram de duas formas:
 ├── config.json             # o que monitorar (produtos e categorias)
 ├── state.json              # memória do "já avisei sobre isso" (commitado pelo workflow)
 ├── debug_fetch.py          # testa o parser de uma categoria sem mandar alerta
+├── debug_coupon.py         # testa a extração de cupom de uma oferta específica
 ├── requirements.txt
 ├── scraper/
 │   ├── sources.py          # extrai preço de página de produto (Amazon, KaBuM, genérico)
-│   ├── deals.py            # extrai e filtra ofertas das categorias do Promobit
+│   ├── deals.py            # extrai/filtra ofertas e pega o cupom da página da oferta
 │   └── telegram.py         # envio de mensagem via Telegram Bot API
 └── .github/workflows/
     └── check_prices.yml    # agendamento (cron a cada 6h) e execução no Actions
@@ -64,8 +65,8 @@ avisa quando o preço atual for igual ou menor que esse valor).
 ```
 
 **Categorias inteiras** (`deal_watches`): já vem configurado com
-Notebook (filtrado pra Ryzen 5/7 + 16GB), Notebook Gamer, Smartwatch,
-AirPods, Hardware/periféricos e TVs. Cada watch aceita:
+Notebook (filtrado pra Ryzen 5/7 + 16GB), Notebook Gamer, Apple Watch,
+AirPods, Hardware/periféricos, TVs, Cuecas e Meias. Cada watch aceita:
 
 - `url` — link da categoria no Promobit (formato
   `https://www.promobit.com.br/promocoes/{categoria}/s/` — dá pra achar
@@ -73,14 +74,30 @@ AirPods, Hardware/periféricos e TVs. Cada watch aceita:
 - `keywords_all` *(opcional)* — todas essas palavras precisam aparecer
   no título da oferta
 - `keywords_any` *(opcional)* — pelo menos uma dessas precisa aparecer
-- `max_price` *(opcional)* — teto de preço em reais
+- `max_price` *(opcional)* — teto de preço em reais (limite rígido:
+  acima disso a oferta é descartada)
 - `min_discount_pct` *(opcional)* — desconto mínimo (%) pra considerar
-  "muito boa"
+  a oferta "muito boa"
 
-Uma oferta passa no filtro se tiver desconto ≥ `min_discount_pct`, OU
-preço ≤ `max_price`, OU já estiver marcada como "Menor preço" pelo
-Promobit — e, se você definiu `keywords_all`/`keywords_any`, o título
-também precisa bater com elas.
+**O desconto é o critério decisivo.** Quando você define
+`min_discount_pct`, a oferta só passa se tiver um desconto **visível e
+≥ esse valor** — não adianta só ter preço baixo ou estar marcada como
+"Menor preço". Somado a isso, se você definiu `keywords_all`/
+`keywords_any` o título precisa bater com elas, e se definiu `max_price`
+a oferta não pode passar do teto. Ou seja: só chega no Telegram o que é
+realmente um descontão. (Se um watch **não** tiver `min_discount_pct`,
+ele volta ao modo permissivo antigo: passa por preço abaixo do teto ou
+pela tag "Menor preço".)
+
+**Cupons.** Quando a oferta usa cupom, o bot abre a página da oferta,
+extrai o código e manda junto no alerta (ex: `🎟️ Cupom: BAIXOU15`) — dá
+pra copiar direto no Telegram. Se ele identificar que é oferta de cupom
+mas não conseguir ler o código, avisa mesmo assim (`🎟️ Precisa de cupom
+(ver na página)`). Isso é feito só para as ofertas que já passaram no
+filtro, então não pesa no número de requisições. Vale lembrar que o
+desconto exibido na listagem pode ou não já incluir o cupom — se não
+incluir, uma oferta boa só com cupom pode não bater o `min_discount_pct`
+e acabar não sendo avisada.
 
 Exemplo pra adicionar uma nova categoria (ex: caixa de som):
 
@@ -100,6 +117,13 @@ categoria sem disparar nada no Telegram:
 ```bash
 pip install -r requirements.txt
 python debug_fetch.py https://www.promobit.com.br/promocoes/notebooks/s/
+```
+
+E pra conferir se a extração de cupom está funcionando numa oferta
+específica (também sem mandar nada pro Telegram):
+
+```bash
+python debug_coupon.py https://www.promobit.com.br/oferta/....
 ```
 
 ### 4. Rodar

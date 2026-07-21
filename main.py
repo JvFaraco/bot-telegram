@@ -18,7 +18,7 @@ no repositório a cada execução.
 import json
 from pathlib import Path
 
-from scraper.deals import fetch_deals, is_good_deal
+from scraper.deals import fetch_coupon, fetch_deals, is_good_deal
 from scraper.sources import get_price
 from scraper.telegram import notify
 
@@ -93,9 +93,19 @@ def check_deal_watch(watch: dict, state: dict) -> None:
         curated_txt = " ⭐ Menor preço" if deal["is_menor_preco"] else ""
         store_txt = f" — {deal['store']}" if deal["store"] else ""
 
+        # Busca o código do cupom na página da oferta. Só é feito pras ofertas
+        # que já passaram no filtro (poucas), então o volume segue baixo.
+        coupon = fetch_coupon(deal["url"])
+        if coupon:
+            coupon_txt = f"\n🎟️ Cupom: <code>{coupon}</code>"
+        elif deal.get("has_coupon"):
+            coupon_txt = "\n🎟️ Precisa de cupom (ver na página)"
+        else:
+            coupon_txt = ""
+
         notify(
             f"🔥 <b>[{name}]</b> {deal['title']}\n"
-            f"R$ {deal['price']:.2f}{discount_txt}{curated_txt}{store_txt}\n"
+            f"R$ {deal['price']:.2f}{discount_txt}{curated_txt}{store_txt}{coupon_txt}\n"
             f"{deal['url']}"
         )
         alerted_urls.append(deal["url"])

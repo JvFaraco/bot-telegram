@@ -45,11 +45,6 @@
       "min_discount_pct": 50
     },
     {
-      "name": "TVs",
-      "url": "https://www.promobit.com.br/promocoes/tv/s/",
-      "min_discount_pct": 50
-    },
-    {
       "name": "Cuecas",
       "url": "https://www.promobit.com.br/promocoes/roupa-masculina/s/",
       "keywords_all": ["cueca"],

@@ -71,7 +71,7 @@ produto (ex: um notebook aparecer como "R$ 148,00").
 
 **Categorias inteiras** (`deal_watches`): já vem configurado com
 Notebook (filtrado pra Ryzen 5/7 + 16GB), Notebook Gamer, Apple Watch,
-AirPods, Hardware/periféricos, TVs, Cuecas e Meias. Cada watch aceita:
+AirPods, Hardware/periféricos, Cuecas e Meias. Cada watch aceita:
 
 - `url` — link da categoria no Promobit (formato
   `https://www.promobit.com.br/promocoes/{categoria}/s/` — dá pra achar

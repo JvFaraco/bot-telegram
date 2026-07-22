@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3699.0,
+      "last_seen_price": 3459.1,
       "last_alerted_price": 148.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -38,6 +38,15 @@
     "https://www.promobit.com.br/oferta/kit-ventoinhas-2936121/",
     "https://www.promobit.com.br/oferta/smart-tv-aoc-50u6125-50-4k-2936466/",
     "https://www.promobit.com.br/oferta/tenis-kappa-pulse-rx-8-cores-2936493/",
-    "https://www.promobit.com.br/oferta/tcl-qled-smart-tv-65-65p8k-4k-uhd-google-tv-2936227/"
+    "https://www.promobit.com.br/oferta/tcl-qled-smart-tv-65-65p8k-4k-uhd-google-tv-2936227/",
+    "https://www.promobit.com.br/oferta/adaptador-hub-usb-i-4-portas-usb-i-rise-mode-cinza-2937382/",
+    "https://www.promobit.com.br/oferta/water-cooler-thermalright-frozen-warframe-360-se-v2-argb-360mm-branco-tr-fw-360-sev2-wh-argb-2937226/",
+    "https://www.promobit.com.br/oferta/pasta-termica-thermalright-tf7-4g-128-wmk-2937147/",
+    "https://www.promobit.com.br/oferta/water-cooler-mach1-logic-rgb-360mm-amd-e-intel-preto-gk360-2936770/",
+    "https://www.promobit.com.br/oferta/water-cooler-msi-mag-coreliquid-e360-argb-360mm-2936560/",
+    "https://www.promobit.com.br/oferta/water-cooler-mach1-logic-rgb-120mm-amd-e-intel-preto-2936519/",
+    "https://www.promobit.com.br/oferta/water-cooler-aigo-darkflash-dc360-radiant-argb-360mm-preto-dc360bk-2936506/",
+    "https://www.promobit.com.br/oferta/smart-tv-50-tcl-4k-uhd-qled-50p7k-google-tv-aipq-google-assistente-3-hdmi-2937043/",
+    "https://www.promobit.com.br/oferta/smart-tv-aoc-50u6125-50-4k-led-2936599/"
   ]
 }

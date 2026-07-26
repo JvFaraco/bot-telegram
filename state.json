@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3789.0,
+      "last_seen_price": 3799.0,
       "last_alerted_price": 148.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -61,6 +61,9 @@
     "https://www.promobit.com.br/oferta/cartucho-tinta-hp-664-colorido-original-2940106/",
     "https://www.promobit.com.br/oferta/suporte-para-placa-de-video-gpu-ajustavel-nvidia-e-radeon-universal-2942014/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-hyrax-hgb210-vidro-temperado-atx-2942913/",
-    "https://www.promobit.com.br/oferta/suporte-de-placa-de-video-universal-nvidiaradeon-pretobranco-2943008/"
+    "https://www.promobit.com.br/oferta/suporte-de-placa-de-video-universal-nvidiaradeon-pretobranco-2943008/",
+    "https://www.promobit.com.br/oferta/suporte-mesa-4-monitores-ergofirst-ajustavel-2943084/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-hyrax-hgb320-vidro-temperado-preto-2943065/",
+    "https://www.promobit.com.br/oferta/mousepad-gamer-rise-mode-speed-sniper-estendido-cinza-2943060/"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3699.0,
+      "last_seen_price": 3779.0,
       "last_alerted_price": 148.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -86,6 +86,11 @@
     "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-aigo-luna-a275-c3-fans-2948548/",
     "https://www.promobit.com.br/oferta/water-cooler-aigo-darkflash-dc360-radiant-argb-360mm-preto-dc360bk-2948526/",
     "https://www.promobit.com.br/oferta/cooler-para-processador-thermalright-assasin-x-120-r-digital-2948527/",
-    "https://www.promobit.com.br/oferta/water-cooler-msi-mag-coreliquid-a12-360mm-intelamd-2948742/"
+    "https://www.promobit.com.br/oferta/water-cooler-msi-mag-coreliquid-a12-360mm-intelamd-2948742/",
+    "https://www.promobit.com.br/oferta/water-cooler-gamer-rise-mode-frost-argb-rainbow-120mm-amd-e-intel-branco-rm-wcz-01-rbw-2950215/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-aigo-apollo-a275-mini-tower-lateral-de-vidro-preto-2950235/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-pistao-a-gas-p-2-monitores-zinnia-nimbo-210-13-a-32-preto-2950232/",
+    "https://www.promobit.com.br/oferta/kit-ventoinhas-acegeek-neon-argb-3x120mm-preto-ag-neon3x1-bk-2950213/",
+    "https://www.promobit.com.br/oferta/dissipador-de-calor-ram-para-computador-de-mesa-argb-ddr5-ddr4-ddr3-ddr2-memoria-universal-dissipador-de-calor-enderec-2949820/"
   ]
 }

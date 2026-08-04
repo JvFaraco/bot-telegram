@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3779.0,
+      "last_seen_price": 3579.1,
       "last_alerted_price": 148.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -109,6 +109,9 @@
     "https://www.promobit.com.br/oferta/notebook-asus-gamer-v16-i5-210h-rtx-5050-8gb-ram-512gb-ssd-tela-16fhd-144hz-linux-2954730/",
     "https://www.promobit.com.br/oferta/notebook-asus-gamer-v16-v3607vh-rtx-5050-core-5-8gb-ram-512gb-ssd-linux-16-lcd-led-fhd-144hz-nivel-ips-rp213-2955718/",
     "https://www.promobit.com.br/oferta/suporte-mesa-articulado-monitor-15-34-pol-preto-2957461/",
-    "https://www.promobit.com.br/oferta/filtro-de-linha-4-tomadas-elgin-2p-t-10a-preto-bivolt-2958230/"
+    "https://www.promobit.com.br/oferta/filtro-de-linha-4-tomadas-elgin-2p-t-10a-preto-bivolt-2958230/",
+    "https://www.promobit.com.br/oferta/notebook-asus-tuf-gaming-f16-intel-core-5-210h-rtx-4050-8gb-512gb-ssd-keepos160-fhd-mecha-gray-fx607vu-rl054-2959055/",
+    "https://www.promobit.com.br/oferta/filtro-de-linha-4-tomadas-elgin-2p-t-10a-preto-bivolt-2958712/",
+    "https://www.promobit.com.br/oferta/kit-ventoinhas-acegeek-neon-argb-3x120mm-2958517/"
   ]
 }

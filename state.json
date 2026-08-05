@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3579.1,
+      "last_seen_price": 3779.0,
       "last_alerted_price": 148.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -116,6 +116,7 @@
     "https://www.promobit.com.br/oferta/ventoinha-husky-arctic-breeze-120mm-iluminacao-argb-preto-hcf300pt-2959470/",
     "https://www.promobit.com.br/oferta/suporte-de-mesa-articulado-para-monitor-de-17-a-32-ergofirst-ajuste-com-pistao-a-gas-preto-g16-c012-2959448/",
     "https://www.promobit.com.br/oferta/adaptador-wi-fi-6-usb-30-dual-band-1300mbps-2959346/",
-    "https://www.promobit.com.br/oferta/mousepad-carregador-inducao-universal-10w-qi-cinza-2959298/"
+    "https://www.promobit.com.br/oferta/mousepad-carregador-inducao-universal-10w-qi-cinza-2959298/",
+    "https://www.promobit.com.br/oferta/notebook-gamer-aorus-17x-axf-intel-core-i9-13900hx-16gb-ram-rtx-4080-1tb-ssd-tela-173-qhd-240hz-windows-11-pro-preto-aorus-17x-axf-b4br694s-2960856/"
   ]
 }

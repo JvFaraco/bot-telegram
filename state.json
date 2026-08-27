@@ -1,11 +1,11 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3499.0,
+      "last_seen_price": 3799.0,
       "last_alerted_price": 148.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
-      "last_seen_price": 3869.1
+      "last_seen_price": 3824.15
     }
   },
   "deals_alerted": [
@@ -222,6 +222,8 @@
     "https://www.promobit.com.br/oferta/water-cooler-deepcool-gamer-mystique-argb-360mm-intelamd-oreti-3001612/",
     "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-3001541/",
     "https://www.promobit.com.br/oferta/filamento-3d-pla-fosco-175mm-5-rolos-3001007/",
-    "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-preto-3003193/"
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-preto-3003193/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-aigo-luna-a275-rainbow-mini-tower-lateralvidro-com-3-fans-3004407/",
+    "https://www.promobit.com.br/oferta/fonte-msi-mag-650w-80-plus-bronze-pfc-ativo-a650bnl-preto-3004246/"
   ]
 }

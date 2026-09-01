@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 4199.0,
+      "last_seen_price": 3647.05,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -253,6 +253,9 @@
     "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-13-a-32-pistao-a-gas-ajustavel-zinnia-nimbo-110-branco-3011318/",
     "https://www.promobit.com.br/oferta/fonte-msi-mag-650w-80-plus-bronze-pfc-ativo-a650bnl-preto-3010885/",
     "https://www.promobit.com.br/oferta/water-cooler-deepcool-gamer-mystique-argb-360mm-intelamd-oreti-3010637/",
-    "https://www.promobit.com.br/oferta/water-cooler-thermalright-frozen-infinity-360-argb-360mm-preto-tr-fi-360-bk-argb-3013138/"
+    "https://www.promobit.com.br/oferta/water-cooler-thermalright-frozen-infinity-360-argb-360mm-preto-tr-fi-360-bk-argb-3013138/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-zinnia-rust-100-17-pol-a-32-pol-preto-zno-rust100-bl01-3014026/",
+    "https://www.promobit.com.br/oferta/fonte-msi-mag-650w-80-plus-bronze-pfc-ativo-a650bnl-preto-3013759/",
+    "https://www.promobit.com.br/oferta/elg-pwc-r4u-powercube-usb-filtro-de-linha-multiplicador-4-tomadas-bivolt-com-2-portas-usb-24a-disjuntor-integrado-de-10a-branco-e-azul-3013749/"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3825.0,
+      "last_seen_price": 3699.0,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -261,6 +261,7 @@
     "https://www.promobit.com.br/oferta/suporte-articulado-monitor-zinnia-rust-100-17-a-32-pol-pistao-a-gas-vesa-75x75100x100-ajuste-altura-cap-ate-9kg-3016701/",
     "https://www.promobit.com.br/oferta/nobreak-interativo-xnb-1440-220v-preto-intelbras-3018492/",
     "https://www.promobit.com.br/oferta/webcam-fifine-1440p-hd-com-microfone-e-tripe-3019160/",
-    "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-branco-3021052/"
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-branco-3021052/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-branco-3022307/"
   ]
 }

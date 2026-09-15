@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3999.0,
+      "last_seen_price": 3648.0,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -297,6 +297,7 @@
     "https://www.promobit.com.br/oferta/gabinete-gamer-tgt-gladiator-rainbow-mid-tower-lateral-de-vidro-com-2-fans-preto-tgt-gld-bk-3041451/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-mancer-ward-v3-lateral-de-vidro-com-3-fans-3041425/",
     "https://www.promobit.com.br/oferta/microfone-gamer-de-mesa-rise-mode-noisy-cube-01-rgb-usb-branco-rm-mnc-01-w-3041394/",
-    "https://www.promobit.com.br/oferta/kit-gamer-razer-game-on-mouse-deathadder-essential-6400-dpi-headset-kraken-x-lite-mouse-bungee-v3-chroma-preto-rz8-3041393/"
+    "https://www.promobit.com.br/oferta/kit-gamer-razer-game-on-mouse-deathadder-essential-6400-dpi-headset-kraken-x-lite-mouse-bungee-v3-chroma-preto-rz8-3041393/",
+    "https://www.promobit.com.br/oferta/kit-ventoinhas-acegeek-rw12-3x1-rainbow-3x120mm-preto-ag-rw12-3x1-bk-3041810/"
   ]
 }

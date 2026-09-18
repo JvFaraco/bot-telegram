@@ -1,11 +1,11 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3648.0,
+      "last_seen_price": 3436.6,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
-      "last_seen_price": 3399.0,
+      "last_seen_price": 2974.15,
       "last_alerted_price": 2974.15
     }
   },
@@ -323,6 +323,7 @@
     "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-nbjohson-gs-mrz05-13-pol-a-32-pol-preto-nb-gs-mrz05-bk-3049072/",
     "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-nbjohson-gs-mrz05-13-pol-a-32-pol-branco-nb-gs-mrz05-wh-3049054/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-mini-tower-lateral-de-vidro-com-1-fan-preto-3049058/",
-    "https://www.promobit.com.br/oferta/suporte-articulado-para-dois-monitores-zinnia-nimbo-210-13-pol-a-32-pol-branco-3049053/"
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-dois-monitores-zinnia-nimbo-210-13-pol-a-32-pol-branco-3049053/",
+    "https://www.promobit.com.br/oferta/mousepad-gamer-antiderrapante-80x30cm-jogos-dragao-chines-14-cores-3050124/"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3568.17,
+      "last_seen_price": 4357.99,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -332,6 +332,13 @@
     "https://www.promobit.com.br/oferta/hub-usb-c-8-em-1-adaptador-tipo-c-hdmi-4k-usb-30-rj45-sd-tf-pd-100w-docking-station-unicovida-3054572/",
     "https://www.promobit.com.br/oferta/suporte-monitor-articulado-ajustavel-14-ate-32-a-gas-preto-3054454/",
     "https://www.promobit.com.br/oferta/water-cooler-gamdias-aura-gl360-lite-preto-argb-am5-lga-1851-3056072/",
-    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-pg-atomx-bk-lat-de-vidro-c2-fans-bk-cor-preto-3057529/"
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-pg-atomx-bk-lat-de-vidro-c2-fans-bk-cor-preto-3057529/",
+    "https://www.promobit.com.br/oferta/kit-upgrade-ryzen-5-5500-a520m-3058065/",
+    "https://www.promobit.com.br/oferta/water-cooler-acegeek-cryoscreen-360-argb-28-inch-lcd-360mm-preto-ag-cryoscreen360-bk-3058055/",
+    "https://www.promobit.com.br/oferta/kit-ventoinhas-pichau-ventus-nx-reverse-argb-3x120mm-preto-pch-vtnxr3-bk01-3058031/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-mancer-hexer-rainbow-mid-tower-lateral-de-vidro-com-3-fans-3058019/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-mini-tower-lateral-de-vidro-com-1-fan-preto-3057996/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-zinnia-nimbo-110-soft-blue-edition-17-pol-a-32-pol-branco-3057965/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-3057943/"
   ]
 }

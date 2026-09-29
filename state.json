@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 2999.0,
+      "last_seen_price": 3439.0,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -364,6 +364,7 @@
     "https://www.promobit.com.br/oferta/suporte-2-monitor-tv-aco-mesa-articulado-vesa-ajuste-3070488/",
     "https://www.promobit.com.br/oferta/suporte-de-mesa-para-tvmonitor-de-17-ate-30-preto-nb-f80-3070351/",
     "https://www.promobit.com.br/oferta/suporte-articulado-2-monitores-gas-13-32-branco-3070779/",
-    "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-branco-3070763/"
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-branco-3070763/",
+    "https://www.promobit.com.br/oferta/suporte-mesa-articulado-monitor-17-32-nb-3071650/"
   ]
 }

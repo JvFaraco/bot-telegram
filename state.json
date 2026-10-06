@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3439.0,
+      "last_seen_price": 3999.99,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -407,6 +407,8 @@
     "https://www.promobit.com.br/oferta/suporte-de-mesa-articulado-para-monitor-de-17-a-32-north-bayou-com-pistao-a-gas-vesa-preto-a5-nb-3087223/",
     "https://www.promobit.com.br/oferta/kit-ventoinhas-acegeek-neon-argb-3x120mm-branco-ag-neon3x1-wh-3088229/",
     "https://www.promobit.com.br/oferta/suporte-de-mesa-ergonomico-north-bayou-single-arm-a5-b-articulado-para-monitores-17-ate-32-pol-preto-3088203/",
-    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-mini-tower-lateral-de-vidro-com-2-fans-preto-pg-atomx-bk-3088180/"
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-mini-tower-lateral-de-vidro-com-2-fans-preto-pg-atomx-bk-3088180/",
+    "https://www.promobit.com.br/oferta/rise-mode-galaxy-ventoinha-120mm-led-rgb-rainbow-3088737/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-e-tv-zinnia-nimbo-110-13-pol-a-32-pol-branco-3088611/"
   ]
 }

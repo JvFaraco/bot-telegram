@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3999.99,
+      "last_seen_price": 3499.0,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -450,6 +450,7 @@
     "https://www.promobit.com.br/oferta/gabinete-gamer-aigo-darkflash-ds900-mid-tower-lateral-de-vidro-preto-ds900-black-3107950/",
     "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-zinnia-rust-200-17-pol-a-32-pol-preto-zno-rust200-bl01-3107927/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-mancer-cv100-purple-edition-mid-tower-com-3-fans-branco-mcr-cv100-pew-3107877/",
-    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-mini-tower-lateral-de-vidro-com-2-fans-preto-pg-atomx-bk-3107871/"
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-mini-tower-lateral-de-vidro-com-2-fans-preto-pg-atomx-bk-3107871/",
+    "https://www.promobit.com.br/oferta/starminer-novo-e-inteligente-2026-bitaxe-gamma-601-minerador-solo-12ths-18w-12v-chip-asic-bm1370-para-bitcoin-com-busc-3109743/"
   ]
 }

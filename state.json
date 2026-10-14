@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3499.0,
+      "last_seen_price": 3613.04,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -454,6 +454,13 @@
     "https://www.promobit.com.br/oferta/starminer-novo-e-inteligente-2026-bitaxe-gamma-601-minerador-solo-12ths-18w-12v-chip-asic-bm1370-para-bitcoin-com-busc-3109743/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-ninja-akyra-x2-white-mid-tower-m-atx-3111142/",
     "https://www.promobit.com.br/oferta/kit-fan-superframe-swift-3x120mm-argb-white-sf-03-3111081/",
-    "https://www.promobit.com.br/oferta/gabinete-gamer-acegeek-echo-mini-mini-tower-lateral-de-vidro-preto-ag-echo-mini-bk-3110467/"
+    "https://www.promobit.com.br/oferta/gabinete-gamer-acegeek-echo-mini-mini-tower-lateral-de-vidro-preto-ag-echo-mini-bk-3110467/",
+    "https://www.promobit.com.br/oferta/filtro-linha-4-tomadas-2-usb-bivolt-elg-3112293/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-aigo-apollo-a275-mini-tower-lateral-de-vidro-preto-ac-a275-b-hq1-3112185/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aigo-darkflash-arcee-dy470-argb-fulltower-lateral-de-vidro-c4-fans-preto-dy470-bk-4f-3112237/",
+    "https://www.promobit.com.br/oferta/fonte-pichau-genesis-1200w-pcie-50-full-modular-cybenetics-platinum-preto-pg-g1200-bk01-3112233/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aigo-darkflash-ds900-mid-tower-lateral-de-vidro-preto-ds900-black-3112227/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-branco-3112198/",
+    "https://www.promobit.com.br/oferta/kit-ventoinha-pichau-ventus-nx-reverse-argb-3x120mm-3112176/"
   ]
 }

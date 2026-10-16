@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3575.82,
+      "last_seen_price": 3499.0,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -475,6 +475,10 @@
     "https://www.promobit.com.br/oferta/nobreak-intelbras-attiv-600-bivolt-600va-preto-3116939/",
     "https://www.promobit.com.br/oferta/dissipador-ssd-m2-2280-nvme-delta-cn510-argb-5v-3-pinos-aura-sync-3117977/",
     "https://www.promobit.com.br/oferta/controladora-pichau-feather-x6-argb-10-portas-pg-ftx6-bk01-3117966/",
-    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-mini-tower-lateral-de-vidro-com-2-fans-preto-pg-atomx-bk-3117914/"
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-mini-tower-lateral-de-vidro-com-2-fans-preto-pg-atomx-bk-3117914/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-de-mesa-para-monitor-compativel-com-telas-de-ate-32-polegadas-fitter-3118701/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-tgt-jester-v2-rainbow-mini-tower-lateral-de-acrilico-c2-fans-preto-tgt-jsrv2-bkgf02-3118648/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-nbjohson-gs-mrz05-13-pol-a-32-pol-branco-nb-gs-mrz05-wh-3118646/",
+    "https://www.promobit.com.br/oferta/nobreak-intelbras-attiv-600-bivolt-600va-preto-3118251/"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3499.0,
+      "last_seen_price": 3905.07,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -10,10 +10,6 @@
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/tcl-qled-smart-tv-65-65p8k-4k-uhd-google-tv-2936227/",
-    "https://www.promobit.com.br/oferta/adaptador-hub-usb-i-4-portas-usb-i-rise-mode-cinza-2937382/",
-    "https://www.promobit.com.br/oferta/water-cooler-thermalright-frozen-warframe-360-se-v2-argb-360mm-branco-tr-fw-360-sev2-wh-argb-2937226/",
-    "https://www.promobit.com.br/oferta/pasta-termica-thermalright-tf7-4g-128-wmk-2937147/",
     "https://www.promobit.com.br/oferta/water-cooler-mach1-logic-rgb-360mm-amd-e-intel-preto-gk360-2936770/",
     "https://www.promobit.com.br/oferta/water-cooler-msi-mag-coreliquid-e360-argb-360mm-2936560/",
     "https://www.promobit.com.br/oferta/water-cooler-mach1-logic-rgb-120mm-amd-e-intel-preto-2936519/",
@@ -509,6 +505,10 @@
     "https://www.promobit.com.br/oferta/kit-3-coolers-rgb-hayom-120mm-controladora-preto-fc1308-3133044/",
     "https://www.promobit.com.br/oferta/anker-switch-hdmi-4k60hz-splitter-hdmi-2-em-1-saida-comutador-monitor-anker-switch-hdmi-splitter-hdmi-2-em-1-sai-3132917/",
     "https://www.promobit.com.br/oferta/fonte-cooler-master-atx-750w-mwe-gold-80-plus-gold-3133999/",
-    "https://www.promobit.com.br/oferta/suporte-de-mesa-articulado-para-monitor-de-17-a-32-north-bayou-com-pistao-a-gas-vesa-branco-a5-xe-nb-3133882/"
+    "https://www.promobit.com.br/oferta/suporte-de-mesa-articulado-para-monitor-de-17-a-32-north-bayou-com-pistao-a-gas-vesa-branco-a5-xe-nb-3133882/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-tgt-jester-v2-rainbow-mini-tower-lateral-de-acrilico-c2-fans-preto-tgt-jsrv2-bkgf02-3134711/",
+    "https://www.promobit.com.br/oferta/kit-x99-soyo-d4-xeon-e5-2630-v4-sem-ram-3134833/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-nbjohson-gs-mrz05-13-pol-a-32-pol-branco-nb-gs-mrz05-wh-3134684/",
+    "https://www.promobit.com.br/oferta/water-cooler-thermalright-frozen-infinity-360-argb-360mm-branco-tr-fi-360-wh-argb-3134658/"
   ]
 }

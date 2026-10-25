@@ -1,7 +1,7 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3905.07,
+      "last_seen_price": 3531.49,
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
@@ -10,7 +10,6 @@
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/gabinete-gamer-1stplayer-vt5-vidro-temperado-atx-2939930/",
     "https://www.promobit.com.br/oferta/water-cooler-montech-lightflow-argb-360mm-amd-e-intel-preto-lgtf360bk-2939963/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-rise-mode-glass-curvo-preto-2939936/",
     "https://www.promobit.com.br/oferta/gabinete-office-rise-mode-x1-branco-mini-tower-m-atx-2939925/",
@@ -509,6 +508,7 @@
     "https://www.promobit.com.br/oferta/kit-fan-gamer-ninja-fuuton-3x120mm-argb-white-3138625/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-aigo-apollo-a275-mini-tower-lateral-de-vidro-preto-ac-a275-b-hq1-3139095/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-mini-tower-lateral-de-vidro-com-2-fans-preto-pg-atomx-bk-3139096/",
-    "https://www.promobit.com.br/oferta/water-cooler-cooler-master-elite-liquid-360mm-argb-3139923/"
+    "https://www.promobit.com.br/oferta/water-cooler-cooler-master-elite-liquid-360mm-argb-3139923/",
+    "https://www.promobit.com.br/oferta/cooler-para-gabinete-round5-nordwind-black-argb-120mm-pwm-preto-r5-nordwind-fw-b-2196-3141020/"
   ]
 }

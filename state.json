@@ -5,16 +5,11 @@
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
-      "last_seen_price": 3393.97,
+      "last_seen_price": 3689.1,
       "last_alerted_price": 2974.15
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/gabinete-office-rise-mode-x1-branco-mini-tower-m-atx-2939925/",
-    "https://www.promobit.com.br/oferta/cartucho-tinta-hp-664-colorido-original-2940106/",
-    "https://www.promobit.com.br/oferta/suporte-para-placa-de-video-gpu-ajustavel-nvidia-e-radeon-universal-2942014/",
-    "https://www.promobit.com.br/oferta/gabinete-gamer-hyrax-hgb210-vidro-temperado-atx-2942913/",
-    "https://www.promobit.com.br/oferta/suporte-de-placa-de-video-universal-nvidiaradeon-pretobranco-2943008/",
     "https://www.promobit.com.br/oferta/suporte-mesa-4-monitores-ergofirst-ajustavel-2943084/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-hyrax-hgb320-vidro-temperado-preto-2943065/",
     "https://www.promobit.com.br/oferta/mousepad-gamer-rise-mode-speed-sniper-estendido-cinza-2943060/",
@@ -509,6 +504,11 @@
     "https://www.promobit.com.br/oferta/water-cooler-cooler-master-elite-liquid-360mm-argb-3139923/",
     "https://www.promobit.com.br/oferta/cooler-para-gabinete-round5-nordwind-black-argb-120mm-pwm-preto-r5-nordwind-fw-b-2196-3141020/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-mancer-narok-v2-rainbow-mid-tower-lateral-de-vidro-com-3-fans-preto-mcr-nrk-v2-3142417/",
-    "https://www.promobit.com.br/oferta/suporte-articulado-duplo-para-2-monitores-zinnia-nimbo-210-3142294/"
+    "https://www.promobit.com.br/oferta/suporte-articulado-duplo-para-2-monitores-zinnia-nimbo-210-3142294/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-tgt-gladiator-rainbow-mid-tower-lateral-de-vidro-com-2-fans-preto-tgt-gld-bk-3143640/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-mini-tower-lateral-de-vidro-com-2-fans-preto-pg-atomx-bk-3143636/",
+    "https://www.promobit.com.br/oferta/microfone-gamer-mesa-rise-mode-rgb-usb-branco-3143415/",
+    "https://www.promobit.com.br/oferta/suporte-mesa-articulado-monitor-17-32-flexispot-3143254/",
+    "https://www.promobit.com.br/oferta/microfone-razer-seiren-v3-mini-ultra-compacto-usb-quartz-3143136/"
   ]
 }

@@ -3,7 +3,7 @@ página de oferta do Promobit, sem mandar nada pro Telegram. Útil pra
 conferir se a extração de cupom está funcionando numa oferta específica.
 
 Uso:
-    python debug_coupon.py https://www.promobit.com.br/oferta/....
+    python -m tools.debug_coupon https://www.promobit.com.br/oferta/....
 """
 import sys
 
@@ -12,7 +12,7 @@ from scraper.deals import fetch_coupon
 
 def main() -> None:
     if len(sys.argv) < 2:
-        print("Uso: python debug_coupon.py <url_da_oferta>")
+        print("Uso: python -m tools.debug_coupon <url_da_oferta>")
         raise SystemExit(1)
 
     url = sys.argv[1]

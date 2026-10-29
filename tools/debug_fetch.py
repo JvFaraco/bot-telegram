@@ -3,7 +3,7 @@ do Promobit, sem mandar nada pro Telegram. Útil pra conferir se o
 scraping ainda está funcionando ou se precisa de ajuste.
 
 Uso:
-    python debug_fetch.py https://www.promobit.com.br/promocoes/notebooks/s/
+    python -m tools.debug_fetch https://www.promobit.com.br/promocoes/notebooks/s/
 """
 import sys
 
@@ -12,7 +12,7 @@ from scraper.deals import fetch_deals
 
 def main() -> None:
     if len(sys.argv) < 2:
-        print("Uso: python debug_fetch.py <url_da_categoria>")
+        print("Uso: python -m tools.debug_fetch <url_da_categoria>")
         raise SystemExit(1)
 
     url = sys.argv[1]

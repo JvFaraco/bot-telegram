@@ -18,9 +18,10 @@ no Telegram de duas formas:
 ├── main.py                 # ponto de entrada: lê config, checa tudo, salva estado
 ├── config.json             # o que monitorar (produtos e categorias)
 ├── state.json              # memória do "já avisei sobre isso" (commitado pelo workflow)
-├── debug_fetch.py          # testa o parser de uma categoria sem mandar alerta
-├── debug_coupon.py         # testa a extração de cupom de uma oferta específica
 ├── requirements.txt
+├── tools/
+│   ├── debug_fetch.py      # testa o parser de uma categoria sem mandar alerta
+│   └── debug_coupon.py     # testa a extração de cupom de uma oferta específica
 ├── scraper/
 │   ├── sources.py          # extrai preço de página de produto (Amazon, KaBuM, genérico)
 │   ├── deals.py            # extrai/filtra ofertas e pega o cupom da página da oferta
@@ -121,14 +122,14 @@ categoria sem disparar nada no Telegram:
 
 ```bash
 pip install -r requirements.txt
-python debug_fetch.py https://www.promobit.com.br/promocoes/notebooks/s/
+python -m tools.debug_fetch https://www.promobit.com.br/promocoes/notebooks/s/
 ```
 
 E pra conferir se a extração de cupom está funcionando numa oferta
 específica (também sem mandar nada pro Telegram):
 
 ```bash
-python debug_coupon.py https://www.promobit.com.br/oferta/....
+python -m tools.debug_coupon https://www.promobit.com.br/oferta/....
 ```
 
 ### 4. Rodar
@@ -163,7 +164,7 @@ python main.py
 - O parser de categorias do Promobit (`scraper/deals.py`) não depende
   de classe CSS nenhuma — ele lê o texto de todo link que aponta pra
   `/oferta/...`, que é um padrão bem estável do site. Se mesmo assim
-  parar de funcionar um dia, roda o `debug_fetch.py` pra ver o que está
+  parar de funcionar um dia, roda o `tools/debug_fetch.py` pra ver o que está
   vindo e ajusta o regex de preço/título se precisar.
 - Isso é um scraper simples pra uso pessoal e baixo volume. Não é pensado
   pra rodar em alta frequência nem em escala — nesse ritmo (poucas

@@ -5,12 +5,11 @@
       "last_alerted_price": 2999.0
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
-      "last_seen_price": 3689.1,
+      "last_seen_price": 2974.15,
       "last_alerted_price": 2974.15
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/dissipador-de-calor-ram-para-computador-de-mesa-argb-ddr5-ddr4-ddr3-ddr2-memoria-universal-dissipador-de-calor-enderec-2949820/",
     "https://www.promobit.com.br/oferta/daguan-suporte-para-notebook-base-dobravel-de-aluminio-ergonomico-ajustavel-fino-portatil-com-estojo-2950528/",
     "https://www.promobit.com.br/oferta/cooler-para-processador-pichau-sage-c2-argb-92mm-2950473/",
     "https://www.promobit.com.br/oferta/water-cooler-husky-freezy-argb-120mm-amdintel-2950956/",
@@ -509,6 +508,7 @@
     "https://www.promobit.com.br/oferta/air-cooler-scythe-katana-5-92mm-3153414/",
     "https://www.promobit.com.br/oferta/water-cooler-gamerstorm-le240-240mm-rgb-preto-3154792/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-gamdias-argus-e4-elite-rgb-preto-3154277/",
-    "https://www.promobit.com.br/oferta/gabinete-gamer-gamdias-argus-e4-elite-rgb-preto-3154282/"
+    "https://www.promobit.com.br/oferta/gabinete-gamer-gamdias-argus-e4-elite-rgb-preto-3154282/",
+    "https://www.promobit.com.br/oferta/water-cooler-round5-zephyro-black-argb-360mm-com-display-lcd-intel-amd-pwm-preto-3156179/"
   ]
 }

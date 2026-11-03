@@ -5,12 +5,11 @@
       "last_alerted_price": 3185.39
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
-      "last_seen_price": 3689.1,
+      "last_seen_price": 2974.15,
       "last_alerted_price": 2974.15
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/mousepad-carregador-inducao-universal-10w-qi-cinza-2959298/",
     "https://www.promobit.com.br/oferta/notebook-gamer-aorus-17x-axf-intel-core-i9-13900hx-16gb-ram-rtx-4080-1tb-ssd-tela-173-qhd-240hz-windows-11-pro-preto-aorus-17x-axf-b4br694s-2960856/",
     "https://www.promobit.com.br/oferta/adaptador-wi-fi-6-usb-30-dual-band-24g58g-1300mbps-com-antenas-2961317/",
     "https://www.promobit.com.br/oferta/fonte-msi-650w-80-plus-bronze-pfc-ativo-preto-2962683/",
@@ -509,6 +508,7 @@
     "https://www.promobit.com.br/oferta/suporte-notebook-10-173-pol-dobravel-preto-3165494/",
     "https://www.promobit.com.br/oferta/elg-suporte-articulado-de-parede-para-monitor-e-tv-17-a-35-polegadas-telas-de-2-a-9kg-vesa-75x75-e-100x100mm-pistao-a-gas-altura-ate-25cm-gir-3165523/",
     "https://www.promobit.com.br/oferta/fonte-pichau-stardust-650w-full-modular-cybenetics-bronze-3165511/",
-    "https://www.promobit.com.br/oferta/q-12-interface-de-audioplaca-de-som-profissional-de-canal-usb-20-dc-5v-de-alta-velocidade-funcao-de-monitor-para-estudiogravacao-musicaljogose-3165383/"
+    "https://www.promobit.com.br/oferta/q-12-interface-de-audioplaca-de-som-profissional-de-canal-usb-20-dc-5v-de-alta-velocidade-funcao-de-monitor-para-estudiogravacao-musicaljogose-3165383/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-gas-dois-monitores-zinnia-nimbo-3168127/"
   ]
 }

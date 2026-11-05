@@ -1,8 +1,8 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3599.0,
-      "last_alerted_price": 3185.39
+      "last_seen_price": 3144.15,
+      "last_alerted_price": 3144.15
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
       "last_seen_price": 3320.19,
@@ -10,9 +10,6 @@
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/notebook-gamer-aorus-17x-axf-intel-core-i9-13900hx-16gb-ram-rtx-4080-1tb-ssd-tela-173-qhd-240hz-windows-11-pro-preto-aorus-17x-axf-b4br694s-2960856/",
-    "https://www.promobit.com.br/oferta/adaptador-wi-fi-6-usb-30-dual-band-24g58g-1300mbps-com-antenas-2961317/",
-    "https://www.promobit.com.br/oferta/fonte-msi-650w-80-plus-bronze-pfc-ativo-preto-2962683/",
     "https://www.promobit.com.br/oferta/bateria-cr2032-2962566/",
     "https://www.promobit.com.br/oferta/suporte-articulado-para-2-monitores-13-a-32-pistao-a-gas-zinnia-nimbo-210-preto-2962437/",
     "https://www.promobit.com.br/oferta/cooler-mach1-typhoon-argb-amdintel-120mm-2962424/",
@@ -509,6 +506,9 @@
     "https://www.promobit.com.br/oferta/elg-suporte-articulado-de-parede-para-monitor-e-tv-17-a-35-polegadas-telas-de-2-a-9kg-vesa-75x75-e-100x100mm-pistao-a-gas-altura-ate-25cm-gir-3165523/",
     "https://www.promobit.com.br/oferta/fonte-pichau-stardust-650w-full-modular-cybenetics-bronze-3165511/",
     "https://www.promobit.com.br/oferta/q-12-interface-de-audioplaca-de-som-profissional-de-canal-usb-20-dc-5v-de-alta-velocidade-funcao-de-monitor-para-estudiogravacao-musicaljogose-3165383/",
-    "https://www.promobit.com.br/oferta/suporte-articulado-gas-dois-monitores-zinnia-nimbo-3168127/"
+    "https://www.promobit.com.br/oferta/suporte-articulado-gas-dois-monitores-zinnia-nimbo-3168127/",
+    "https://www.promobit.com.br/oferta/fonte-cooler-master-atx-31-750w-mwe-gold-750-v3-pfc-ativo-80-plus-gold-semcabo-3174210/",
+    "https://www.promobit.com.br/oferta/water-cooler-geometric-future-eskimo-pro-42-rgb-branco-3173682/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-gamdias-mid-tower-atlas-e1-3-fans-120mm-argb-branco-atlas-e1-wh-3173654/"
   ]
 }

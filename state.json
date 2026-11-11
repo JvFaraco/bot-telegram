@@ -5,16 +5,11 @@
       "last_alerted_price": 3185.39
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
-      "last_seen_price": 3185.0,
-      "last_alerted_price": 3185.0
+      "last_seen_price": 2974.15,
+      "last_alerted_price": 2974.15
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/water-cooler-tgt-spartel-v3-rainbow-120mm-preto-2979295/",
-    "https://www.promobit.com.br/oferta/gabinete-gamer-acegeek-stratus-mesh-preto-mid-tower-com-lateral-de-vidro-2979175/",
-    "https://www.promobit.com.br/oferta/okut-hub-usb-c-tipo-c-dock-thunderbolt-hdmi-4k-usb-30-cinza-2980585/",
-    "https://www.promobit.com.br/oferta/suporte-para-notebook-base-dobravel-de-aluminio-ergonomico-ajustavel-fino-portatil-com-estojo-2981134/",
-    "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-13-a-32-pistao-a-gas-ajustavel-zinnia-nimbo-110-branco-2981116/",
     "https://www.promobit.com.br/oferta/braco-suporte-pedestal-de-mesa-articulado-para-microfones-2981109/",
     "https://www.promobit.com.br/oferta/suporte-para-placa-de-video-dt3-hyperstone-argb-2981094/",
     "https://www.promobit.com.br/oferta/suporte-ajustavel-placa-de-video-gpu-7cm-12cm-vertical-universal-2981095/",
@@ -509,6 +504,11 @@
     "https://www.promobit.com.br/oferta/suporte-de-mesa-articulado-para-monitor-de-17-a-32-north-bayou-com-pistao-a-gas-vesa-preto-a5-nb-3198408/",
     "https://www.promobit.com.br/oferta/filtro-de-linha-betahome-com-6-tomadas-e-3-usb-para-2500w-bivolt-3198464/",
     "https://www.promobit.com.br/oferta/kit-3-fans-120mm-geometric-future-squama-2505w-argb-branco-3198351/",
-    "https://www.promobit.com.br/oferta/water-cooler-lian-li-ga-ii-trinity-sl-inf-240-rgb-branco-branco-3198305/"
+    "https://www.promobit.com.br/oferta/water-cooler-lian-li-ga-ii-trinity-sl-inf-240-rgb-branco-branco-3198305/",
+    "https://www.promobit.com.br/oferta/water-cooler-240mm-deepcool-lt240-preto-3203133/",
+    "https://www.promobit.com.br/oferta/water-cooler-ninja-yuki-120mm-argb-intelamd-3202801/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-de-mesa-para-monitor-compativel-com-telas-de-ate-32-polegadas-fitter-3202765/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-mini-tower-lateral-de-vidro-com-2-fans-preto-pg-atomx-bk-3202733/",
+    "https://www.promobit.com.br/oferta/fonte-asrock-pro-750w-80-plus-bronze-atx-31-pcie-51-pfc-ativo-preto-pro-750b-3202429/"
   ]
 }

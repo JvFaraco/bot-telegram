@@ -5,19 +5,11 @@
       "last_alerted_price": 3185.39
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
-      "last_seen_price": 3229.15,
-      "last_alerted_price": 2974.15
+      "last_seen_price": 3185.0,
+      "last_alerted_price": 3185.0
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/notebook-asus-gamer-v16-v3607vh-rtx-5050-core-5-8gb-ram-512gb-ssd-linux-16-lcd-led-fhd-144hz-nivel-ips-rp213-2976496/",
-    "https://www.promobit.com.br/oferta/cabo-de-rede-ethernet-rj45-de-alta-velocidade-cat8-40-gbps-2000-mhz-pvc-lan-2976499/",
-    "https://www.promobit.com.br/oferta/kit-ventoinhas-acegeek-rw12-5x1-rainbow-5x120mm-preto-ag-rw12-5x1-bk-2976680/",
-    "https://www.promobit.com.br/oferta/suporte-notebook-dobravel-ergonomico-ajustavel-2976672/",
-    "https://www.promobit.com.br/oferta/extensao-hub-regua-usb-20-7-portas-pc-hd-externo-pendrive-2978133/",
-    "https://www.promobit.com.br/oferta/water-cooler-pichau-aqua-360x-argb-360mm-preto-pch-aqa360x-bk01-2978859/",
-    "https://www.promobit.com.br/oferta/suporte-2-monitor-tv-aco-mesa-articulad-vesa-ajuste-2978719/",
-    "https://www.promobit.com.br/oferta/suporte-2-monitores-aco-articulado-vesa-2978677/",
     "https://www.promobit.com.br/oferta/water-cooler-tgt-spartel-v3-rainbow-120mm-preto-2979295/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-acegeek-stratus-mesh-preto-mid-tower-com-lateral-de-vidro-2979175/",
     "https://www.promobit.com.br/oferta/okut-hub-usb-c-tipo-c-dock-thunderbolt-hdmi-4k-usb-30-cinza-2980585/",
@@ -509,6 +501,14 @@
     "https://www.promobit.com.br/oferta/pichau-kit-upgrade-intel-i5-14600k-b760m-ddr5-3196866/",
     "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-zinnia-nimbo-110-navy-blue-edition-13-pol-a-32-pol-preto-zno-nblue110-bl01-v2-3196570/",
     "https://www.promobit.com.br/oferta/suporte-mesa-articulado-monitor-17-32-north-bayou-3196030/",
-    "https://www.promobit.com.br/oferta/suporte-de-mesa-articulado-para-monitor-de-17-a-32-ergofirst-ajuste-com-pistao-a-gas-preto-g16-c012-3195981/"
+    "https://www.promobit.com.br/oferta/suporte-de-mesa-articulado-para-monitor-de-17-a-32-ergofirst-ajuste-com-pistao-a-gas-preto-g16-c012-3195981/",
+    "https://www.promobit.com.br/oferta/notebook-gamer-lenovo-156-full-hd-i5-13450hx-rtx-4050-de-105w-16gb-dual-channel-512gb-16gb-512gb-3198616/",
+    "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-nbjohson-gs-mrz05-13-pol-a-32-pol-preto-nb-gs-mrz05-bk-3199024/",
+    "https://www.promobit.com.br/oferta/fonte-deepcool-dq850m-v3l-wo-full-modular-sem-cabo-de-forca-preto-3198680/",
+    "https://www.promobit.com.br/oferta/watercooler-geometric-future-eskimo-junior-neon-36-rgb-preto-3198668/",
+    "https://www.promobit.com.br/oferta/suporte-de-mesa-articulado-para-monitor-de-17-a-32-north-bayou-com-pistao-a-gas-vesa-preto-a5-nb-3198408/",
+    "https://www.promobit.com.br/oferta/filtro-de-linha-betahome-com-6-tomadas-e-3-usb-para-2500w-bivolt-3198464/",
+    "https://www.promobit.com.br/oferta/kit-3-fans-120mm-geometric-future-squama-2505w-argb-branco-3198351/",
+    "https://www.promobit.com.br/oferta/water-cooler-lian-li-ga-ii-trinity-sl-inf-240-rgb-branco-branco-3198305/"
   ]
 }

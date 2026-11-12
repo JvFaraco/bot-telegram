@@ -5,14 +5,11 @@
       "last_alerted_price": 3185.39
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
-      "last_seen_price": 2974.15,
-      "last_alerted_price": 2974.15
+      "last_seen_price": 3185.0,
+      "last_alerted_price": 3185.0
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/suporte-para-notebook-base-dobravel-de-aluminio-2981087/",
-    "https://www.promobit.com.br/oferta/cabo-de-rede-ethernet-rj45-de-alta-velocidade-cat8cat7-40-gbps-2000-mhz-pvc-lan-2981162/",
-    "https://www.promobit.com.br/oferta/mousepad-gamer-razer-gigantus-v2-controlspeed-xxl-940x410mm-rz02-03330400-r3u1-2982101/",
     "https://www.promobit.com.br/oferta/mousepad-gamer-rapoo-superficie-textil-antiderrapante-2982212/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-aigo-apollo-lateral-vidro-2983169/",
     "https://www.promobit.com.br/oferta/kit-5-ventoinhas-acegeek-rw12-rainbow-preto-2983153/",
@@ -509,6 +506,9 @@
     "https://www.promobit.com.br/oferta/fonte-asrock-pro-750w-80-plus-bronze-atx-31-pcie-51-pfc-ativo-preto-pro-750b-3202429/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-mancer-cv100-mid-tower-lateral-de-vidro-branco-mcr-cv100-wh-3203887/",
     "https://www.promobit.com.br/oferta/suporte-de-mesa-articulado-para-monitor-de-17-a-32-north-bayou-ajustes-com-pistao-a-gas-grafite-f80-nb-3204187/",
-    "https://www.promobit.com.br/oferta/microfone-gamer-fifine-ampligame-a9-rgb-usb-condensador-cardioide-preto-a9-3204199/"
+    "https://www.promobit.com.br/oferta/microfone-gamer-fifine-ampligame-a9-rgb-usb-condensador-cardioide-preto-a9-3204199/",
+    "https://www.promobit.com.br/oferta/suporte-de-notebook-elements-onix-3205017/",
+    "https://www.promobit.com.br/oferta/braco-articulado-para-monitor-elements-axion-duplo-3205018/",
+    "https://www.promobit.com.br/oferta/braco-articulado-para-monitor-elements-axion-3205004/"
   ]
 }

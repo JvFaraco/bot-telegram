@@ -1,8 +1,8 @@
 {
   "products": {
     "https://www.amazon.com.br/dp/B0DJWQKLS7": {
-      "last_seen_price": 3185.39,
-      "last_alerted_price": 3185.39
+      "last_seen_price": 3184.29,
+      "last_alerted_price": 3184.29
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
       "last_seen_price": 2974.15,
@@ -10,7 +10,6 @@
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/suporte-articulado-para-monitor-zinnia-rust-100-17-pol-a-32-pol-2989522/",
     "https://www.promobit.com.br/oferta/water-cooler-aigo-darkflash-dc360-radiant-argb-360mm-preto-dc360bk-2989523/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-aigo-apollo-a275-mini-tower-lateral-de-vidro-preto-2989515/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-tgt-gladiator-rainbow-mid-tower-lateral-de-vidro-com-2-fans-preto-tgt-gld-bk-2989511/",
@@ -509,6 +508,7 @@
     "https://www.promobit.com.br/oferta/organizador-de-cabos-md9-34-preto-1-metro-om-5423-3213826/",
     "https://www.promobit.com.br/oferta/pichau-kit-upgrade-amd-ryzen-5-9600x-asus-tuf-gaming-a620m-plus-wifi-cooler-3213607/",
     "https://www.promobit.com.br/oferta/filtro-de-linha-betahome-com-6-tomadas-e-3-usb-para-2500w-3212866/",
-    "https://www.promobit.com.br/oferta/filtro-de-linha-betahome-com-6-tomadas-e-3-usb-para-2500w-bivolt-3212819/"
+    "https://www.promobit.com.br/oferta/filtro-de-linha-betahome-com-6-tomadas-e-3-usb-para-2500w-bivolt-3212819/",
+    "https://www.promobit.com.br/oferta/filtro-de-linha-para-6-tomadas-com-2-usb-e-protecao-contra-sobrecarga-cabo-3215478/"
   ]
 }

@@ -5,13 +5,11 @@
       "last_alerted_price": 3184.29
     },
     "https://www.kabum.com.br/produto/649861/notebook-asus-vivobook-go-15-e1504fa-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-linux-keepos-tela-15-6-led-fhd-black-nj1288": {
-      "last_seen_price": 2974.15,
-      "last_alerted_price": 2974.15
+      "last_seen_price": 3185.0,
+      "last_alerted_price": 3185.0
     }
   },
   "deals_alerted": [
-    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-aigo-apollo-a275-mini-tower-lateral-de-vidro-preto-2989515/",
-    "https://www.promobit.com.br/oferta/gabinete-gamer-tgt-gladiator-rainbow-mid-tower-lateral-de-vidro-com-2-fans-preto-tgt-gld-bk-2989511/",
     "https://www.promobit.com.br/oferta/suporte-articulado-p-monitor-zinnia-nimbo-210-duplo-2989509/",
     "https://www.promobit.com.br/oferta/gabinete-gamer-tgt-jester-v2-rainbow-mini-tower-com-2-fans-2989506/",
     "https://www.promobit.com.br/oferta/webcam-emeet-c60e-4k-30fps-uhd-8mp-2992841/",
@@ -509,6 +507,8 @@
     "https://www.promobit.com.br/oferta/filtro-de-linha-betahome-com-6-tomadas-e-3-usb-para-2500w-3212866/",
     "https://www.promobit.com.br/oferta/filtro-de-linha-betahome-com-6-tomadas-e-3-usb-para-2500w-bivolt-3212819/",
     "https://www.promobit.com.br/oferta/filtro-de-linha-para-6-tomadas-com-2-usb-e-protecao-contra-sobrecarga-cabo-3215478/",
-    "https://www.promobit.com.br/oferta/gabinete-gamer-aigo-darkflash-durin-d275m-rainbow-mid-tower-lvidro-com-3-fans-branco-durin-wh-3f-3216827/"
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aigo-darkflash-durin-d275m-rainbow-mid-tower-lvidro-com-3-fans-branco-durin-wh-3f-3216827/",
+    "https://www.promobit.com.br/oferta/fonte-gamemax-gs600-600w-80-plus-white-3217495/",
+    "https://www.promobit.com.br/oferta/gabinete-gamer-aquario-pichau-atom-x-mini-tower-lateral-de-vidro-com-2-fans-preto-pg-atomx-bk-3216979/"
   ]
 }
